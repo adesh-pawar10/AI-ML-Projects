@@ -108,6 +108,5 @@ Contributions are welcome! If you would like to enhance these projects:
 Passionate about leveraging **AI and ML** to solve real-world challenges, this repository is a showcase of hands-on projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40adesh--pawar10-black?logo=github)](https://github.com/adesh-pawar10)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://your-portfolio-url)
 
 ---
