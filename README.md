@@ -55,27 +55,21 @@ Explore a collection of exciting projects leveraging regression algorithms to so
 📁 Car Price Prediction/
    - Data/
    - app.py
-   - templates/
-   - static/
-   - README.md
 📁 Crop Prediction/
    - Data/
    - app.py
    - templates/
    - static/
-   - README.md
 📁 Personalized Medicine/
    - Data/
    - app.py
    - templates/
    - static/
-   - README.md
 📁 Predicting Diabetes/
    - Data/
    - app.py
    - templates/
    - static/
-   - README.md
 ```
 
 ---
