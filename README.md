@@ -111,8 +111,3 @@ Passionate about leveraging **AI and ML** to solve real-world challenges, this r
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://your-portfolio-url)
 
 ---
-
-## 📷 Screenshot of Repository
-![Repository Screenshot](image.png)
-
----
