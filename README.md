@@ -94,8 +94,8 @@ Explore a collection of exciting projects leveraging regression algorithms to so
 ## 🌐 How to Run the Projects Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-url
-   cd project-folder
+   git clone https://github.com/adesh-pawar10/AI-ML-Projects.git
+   cd AI-ML-Projects
    ```
 2. Install dependencies:
    ```bash
