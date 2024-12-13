@@ -116,8 +116,3 @@ Passionate about leveraging **AI and ML** to solve real-world challenges, this r
 ![Repository Screenshot](image.png)
 
 ---
-
-## 📬 Contact
-Feel free to reach out for collaboration or queries:
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
