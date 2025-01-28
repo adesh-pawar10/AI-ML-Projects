@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personalized Medicine Prediction</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Predict Optimal Dosage</h1>
+        <form id="prediction-form" action="/predict" method="POST">
+            <label for="genetics">Genetics:</label>
+            <select name="genetics" id="genetics" required>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+            </select><br>
+
+            <label for="age">Age (Years):</label>
+            <input type="number" name="age" id="age" step="1" required><br>
+
+            <label for="weight">Weight (kg):</label>
+            <input type="number" name="weight" id="weight" step="0.1" required><br>
+
+            <button type="submit">Predict</button>
+        </form>
+        <div id="result"></div>
+    </div>
+    <script>
+        const form = document.getElementById("prediction-form");
+        form.addEventListener("submit", async (event) => {
+            event.preventDefault();
+            const formData = new FormData(form);
+            const response = await fetch("/predict", {
+                method: "POST",
+                body: formData
+            });
+            const result = await response.json();
+            const resultDiv = document.getElementById("result");
+            if (result.error) {
+                resultDiv.textContent = `Error: ${result.error}`;
+                resultDiv.style.color = "red";
+            } else {
+                resultDiv.textContent = `Predicted Dosage: ${result.predicted_dosage}`;
+                resultDiv.style.color = "green";
+            }
+        });
+    </script>
+</body>
+</html>
