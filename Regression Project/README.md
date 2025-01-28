@@ -155,7 +155,6 @@ Regression Project/
 │   ├── data/              # Data files
 │   ├── notebooks/         # Jupyter Notebooks
 │   ├── src/               # Code for model building
-├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
 ```
 
@@ -187,20 +186,6 @@ We welcome contributions to improve and expand these projects! Here's how you ca
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📬 Contact
-
-**Adesh Pawar**  
-📧 [your-email@example.com](mailto:your-email@example.com)  
-🌐 [GitHub Profile](https://github.com/adesh-pawar10)
-
----
-
 ## 🔗 Useful Links
 
 - [Linear Regression Explanation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)  
@@ -212,6 +197,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🚀 Badges
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
