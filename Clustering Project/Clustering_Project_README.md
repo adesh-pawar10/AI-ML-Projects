@@ -79,7 +79,6 @@ Clustering Project/
 ├── notebooks/             # Jupyter Notebooks for analysis
 ├── src/                   # Code for data preprocessing & clustering
 ├── visuals/               # Cluster plots and visualizations
-├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
 ```
 
