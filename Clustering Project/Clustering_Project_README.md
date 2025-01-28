@@ -109,20 +109,6 @@ Contributions are always welcome! Follow these steps to contribute:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📬 Contact
-
-**Adesh Pawar**  
-📧 [your-email@example.com](mailto:your-email@example.com)  
-🌐 [GitHub Profile](https://github.com/adesh-pawar10)
-
----
-
 ## 🔗 Useful Links
 
 - [FIFA 23 Player Dataset](https://www.kaggle.com/datasets/poojap94/fifa-23-player-dataset)  
