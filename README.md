@@ -138,7 +138,6 @@ AI-ML-Projects/
 │   ├── Crop Prediction/
 │   ├── Personalized Medicine/
 │   ├── Predicting Patient Readmission/
-│   ├── requirements.txt    # Python dependencies
 └── README.md               # Project documentation
 ```
 
@@ -171,20 +170,6 @@ We welcome contributions to enhance and expand the scope of these projects. Here
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📬 Contact
-
-**Adesh Pawar**  
-📧 [your-email@example.com](mailto:your-email@example.com)  
-🌐 [GitHub Profile](https://github.com/adesh-pawar10)
-
----
-
 ## 🔗 Useful Links
 
 ### Clustering Project
@@ -212,6 +197,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🚀 Badges
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
